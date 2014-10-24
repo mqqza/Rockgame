@@ -4,7 +4,7 @@ using System.Collections;
 public class onClickStone : MonoBehaviour
 {
 	
-		public int count = 0;
+		public int count = 1;
 		float _width = 480f;
 		float _height = 854f;
 
